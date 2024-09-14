@@ -1,0 +1,17 @@
+   # Arquivos de configuração do sistema
+   .DS_Store
+   Thumbs.db
+   config.js
+
+   # Dependências
+   /node_modules
+
+   # Arquivos de ambiente
+   .env
+
+   # Arquivos de build
+   /dist
+   /build
+
+   # Logs
+   *.log
